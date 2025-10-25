@@ -1,28 +1,3 @@
-# 🧑‍💻 Nathaniel Angeles  
-
-Cybersecurity tinkerer | Linux enjoyer | Script addict  
-
-> “Hack responsibly, automate relentlessly.”
-
----
-
-### 🧠 Focus
-- 🐧 Linux (Kali, Ubuntu)
-- 🧩 Bash • Python • Go  
-- 🔐 Red + Blue Team experiments  
-
----
-
-### ⚙️ Projects
-- Scripts that defend (and sometimes attack)  
-- Automation for when coffee runs out  
-
----
-
-### 💬 Motto
-If it works → push.  
-If it breaks → feature.
-
----
-
-*README last updated after a reboot.*
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=039A27&background=000000&center=true&vCenter=true&width=430&lines=IT+and+Cybersecurity" alt="Typing SVG" /></a>
+</p>
